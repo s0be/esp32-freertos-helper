@@ -1,1 +1,3 @@
 build-tools/
+projects/*
+!projects/hello_world
